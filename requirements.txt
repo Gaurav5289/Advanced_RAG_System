@@ -14,3 +14,6 @@ langchain_community
 llama-parse
 pinecone-client
 langchain-pinecone
+
+# Production Web Server
+gunicorn
