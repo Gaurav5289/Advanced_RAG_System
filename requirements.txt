@@ -1,0 +1,16 @@
+# Core Frameworks
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+
+# LangChain & AI Models
+langchain
+langchain-google-genai
+langchain_community
+
+# Document Processing & Vector Store
+llama-parse
+pinecone-client
+langchain-pinecone

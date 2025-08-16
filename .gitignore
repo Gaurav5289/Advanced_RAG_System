@@ -1,0 +1,10 @@
+# Environment variables and secrets
+.env
+
+# Local databases
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
