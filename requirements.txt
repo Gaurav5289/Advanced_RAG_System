@@ -1,3 +1,5 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 # Core Frameworks
 fastapi
 uvicorn
@@ -12,8 +14,6 @@ langchain_community
 
 # Document Processing & Vector Store
 llama-parse
-pinecone-client
-langchain-pinecone
-
-# Production Web Server
-gunicorn
+chromadb
+sentence-transformers
+torch
